@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Databasetest</string>
+    <string-array name="section">
+        <item>select u r section</item>
+        <item>A section</item>
+        <item>B section</item>
+        <item>C section</item>
+    </string-array>
+</resources>
